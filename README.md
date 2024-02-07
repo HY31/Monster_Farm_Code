@@ -26,3 +26,16 @@
 - **개발 환경** : Unity 2022.3.2f1
 - **빌드** : itch.io
 - **개발 기간** : 2023.10.23 ~ 2023.12.15
+
+---
+
+# 발표 자료
+![슬라이드1](https://github.com/HY31/Monster_Farm_Code/assets/62960758/99d5905f-0323-4ac1-a03d-3dffc96de353)
+![슬라이드2](https://github.com/HY31/Monster_Farm_Code/assets/62960758/b58501ce-4844-422f-a05e-ca2163a8b9e4)
+![슬라이드3](https://github.com/HY31/Monster_Farm_Code/assets/62960758/0e9766cd-7336-4078-bbd0-52585c04e9e6)
+![슬라이드4](https://github.com/HY31/Monster_Farm_Code/assets/62960758/568d1a1c-af37-4ba1-b3ac-80787892877e)
+![슬라이드5](https://github.com/HY31/Monster_Farm_Code/assets/62960758/e49a569e-cb1c-4df6-a002-b08464212d75)
+![슬라이드6](https://github.com/HY31/Monster_Farm_Code/assets/62960758/c2eba4e6-f865-41b9-b82a-d436ffaa5af1)
+![슬라이드8](https://github.com/HY31/Monster_Farm_Code/assets/62960758/936dc931-d8dd-4135-b447-724964ef97ee)
+![슬라이드9](https://github.com/HY31/Monster_Farm_Code/assets/62960758/2c192f13-dc7c-408c-937d-1c377cf3ffb0)
+
